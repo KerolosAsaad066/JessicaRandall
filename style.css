@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(20, 20, 20);
+}
+div{
+    background-color: rgb(31, 31, 31);
+    width: 310px;
+    height: 650px;
+    margin: auto;
+    padding: 15px;
+    border-radius: 20px;
+    margin-top: 35px;
+    text-align: center;
+}
+#greenparagraph{
+    color: greenyellow;
+}
+
+
+.paragraphs{
+    margin: 20px;
+}
+
+h2, #hh{
+    color: aliceblue;
+}
+button{
+    border-radius: 6px;
+    background-color: rgb(51, 51, 51);
+    width: 220px;
+    height: 50px;
+    border-style: none;
+    margin-top: 20px;
+}
+h4{
+    color: aliceblue;
+}
+
+img{
+    border-radius: 50%;
+    width: 150px;
+}
